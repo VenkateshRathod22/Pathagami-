@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "415395060383",
+    "project_id": "pathagami-eb768",
+    "storage_bucket": "pathagami-eb768.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415395060383:android:d1c44ed8091f4bab7860aa",
+        "android_client_info": {
+          "package_name": "com.app.tracks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3Lo7MqEPtRE9LRskrLrOUxtI0fKezCM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
